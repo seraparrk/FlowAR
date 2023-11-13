@@ -8,7 +8,9 @@
 ### 핵심 기능
 - 3D렌더링 된 꽃다발을 AR로 구현하여 꽃다발 크기, 디자인, 360도 모습 등을 볼 수 있음
 - BodyTracking하여 꽃다발을 손에 올려 볼 수 있음
-
+### 기술 및 협업 스택
+<img src = "https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 ## 발표 pdf
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 41 01" src="https://github.com/seraparrk/FlowAR/assets/113303445/9b9afe73-4c61-4e09-8e05-d0123d55feea">
