@@ -1,6 +1,15 @@
 # FlowAR
+## 프로젝트 소개
+### 기획
+#### 기존의 비대면 유통방식의 한계
+- "중요한 날에 쓰일 꽃다발을 직접 보고 사야한다는 인식" 2차원 사진정보만으로 실물에 대한 파악이 어려움
+- "개인의 취향이 고려된 맞춤형 서비스의 부재" 획일화된 디자인의 상품만을 구매할 수 밖에 없음
+#### 따라서,
+- 꽃다발 AR 추천
+- AI 추천 꽃다발
+을 기획하게 되었습니다
 
-# 발표 pdf
+## 발표 pdf
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 41 01" src="https://github.com/seraparrk/FlowAR/assets/113303445/9b9afe73-4c61-4e09-8e05-d0123d55feea">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 41 07" src="https://github.com/seraparrk/FlowAR/assets/113303445/8033d773-f684-45a4-aa56-742f65e9fb30">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 41 13" src="https://github.com/seraparrk/FlowAR/assets/113303445/fdec3fe4-1b9f-48f1-a76d-6311c00e5a4f">
