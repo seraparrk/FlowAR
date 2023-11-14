@@ -41,8 +41,7 @@
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 27" src="https://github.com/seraparrk/FlowAR/assets/113303445/07562704-ac4b-45b9-b3e3-9cbbc5cef8ee">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 33" src="https://github.com/seraparrk/FlowAR/assets/113303445/d0f872f4-bb0f-4711-a47a-894b3689f364">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 39" src="https://github.com/seraparrk/FlowAR/assets/113303445/16c429be-1ba5-43a8-b3eb-1329ae1637f2">
-### 결과 동영상
-<br>
+
 https://github.com/seraparrk/FlowAR/assets/113303445/10c3e2a8-0c0d-4578-92fd-7c2fa0fa4ced
 
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 46" src="https://github.com/seraparrk/FlowAR/assets/113303445/e60cdb2a-d8e1-426f-863e-ef19f7ff84e7">
