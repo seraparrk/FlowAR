@@ -1,4 +1,5 @@
 # FlowAR
+https://github.com/seraparrk/FlowAR/assets/113303445/10c3e2a8-0c0d-4578-92fd-7c2fa0fa4ced
 ## 프로젝트 소개
 ### 기획
 #### 기존의 비대면 유통방식의 한계
