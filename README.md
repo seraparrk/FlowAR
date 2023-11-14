@@ -11,6 +11,7 @@
 ### 기술 및 협업 스택
 <img src = "https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/CSharp-512BD4?style=for-the-badge&logo=CSharp&logoColor=white">
 
 ## 발표 pdf
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 41 01" src="https://github.com/seraparrk/FlowAR/assets/113303445/9b9afe73-4c61-4e09-8e05-d0123d55feea">
