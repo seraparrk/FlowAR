@@ -40,7 +40,6 @@
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 16" src="https://github.com/seraparrk/FlowAR/assets/113303445/5863cb90-6945-426a-b62a-6ad92e563254">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 20" src="https://github.com/seraparrk/FlowAR/assets/113303445/7d998ac7-471b-4680-8b6a-b5bdb5af85b5">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 27" src="https://github.com/seraparrk/FlowAR/assets/113303445/07562704-ac4b-45b9-b3e3-9cbbc5cef8ee">
-<img width="1278" alt="스크린샷 2023-11-13 오후 11 43 33" src="https://github.com/seraparrk/FlowAR/assets/113303445/d0f872f4-bb0f-4711-a47a-894b3689f364">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 39" src="https://github.com/seraparrk/FlowAR/assets/113303445/16c429be-1ba5-43a8-b3eb-1329ae1637f2">
 
 https://github.com/seraparrk/FlowAR/assets/113303445/10c3e2a8-0c0d-4578-92fd-7c2fa0fa4ced
