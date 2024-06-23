@@ -45,5 +45,4 @@
 https://github.com/seraparrk/FlowAR/assets/113303445/10c3e2a8-0c0d-4578-92fd-7c2fa0fa4ced
 
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 43 46" src="https://github.com/seraparrk/FlowAR/assets/113303445/e60cdb2a-d8e1-426f-863e-ef19f7ff84e7">
-<img width="1278" alt="스크린샷 2023-11-13 오후 11 43 57" src="https://github.com/seraparrk/FlowAR/assets/113303445/b2707e03-e8d0-422a-bc28-7bc432eee440">
 <img width="1278" alt="스크린샷 2023-11-13 오후 11 44 12" src="https://github.com/seraparrk/FlowAR/assets/113303445/938bed68-c905-47b5-87f9-fc22ea29ba43">
